@@ -1,4 +1,4 @@
-package pattern1;
+
 import java.util.*;
 public class star {
     public static void main(String args[]){
